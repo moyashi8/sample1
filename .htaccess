@@ -1,4 +1,4 @@
-AuthUserfile /moyashi-sample1/.htpasswd
+AuthUserfile /.htpasswd
 AuthGroupfile /dev/null
 AuthName "Please enter your ID and password"
 AuthType Basic
