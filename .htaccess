@@ -1,4 +1,4 @@
-AuthUserfile /sample1/.htpasswd
+AuthUserfile /var/www/.htpasswd
 AuthGroupfile /dev/null
 AuthName "Please enter your ID and password"
 AuthType Basic
